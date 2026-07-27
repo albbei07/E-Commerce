@@ -15,8 +15,8 @@ Un primo sguardo all'interfaccia, lato cliente e lato amministratore.
 
 Sezione prodotti acquistabili con possibilità di aggiunta al carrello o ai preferiti, con seguenti dettagli prima di confermare l'ordine
 <p align="center">
-  <img src="ecommerce/docs/screenshots/orders.png" alt="Storico ordini cliente" width="47%">
-  <img src="ecommerce/docs/screenshots/index.png" alt="Catalogo prodotti" width="47%">
+  <img src="./docs/screenshots/orders.png" alt="Storico ordini cliente" width="47%">
+  <img src="./docs/screenshots/index.png" alt="Catalogo prodotti" width="47%">
 </p>
 
 ### 🛠️ Area Amministratore
