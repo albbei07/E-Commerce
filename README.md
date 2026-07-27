@@ -28,8 +28,8 @@ Gestione magazzino: ricerca, filtro categoria, **ordinamento per nome/prezzo/qua
 
 Elenco utenti con numero ordini e spesa totale; promozione/retrocessione ruolo admin↔user, eliminazione account
 <p align="center">
-  <img src="ecommerce/docs/screenshots/market.png" alt="Mercato esterno fornitori" width="47%">
-  <img src="ecommerce/docs/screenshots/users.png" alt="Gestione utenti" width="47%">
+  <img src="./docs/screenshots/market.png" alt="Mercato esterno fornitori" width="47%">
+  <img src="./docs/screenshots/users.png" alt="Gestione utenti" width="47%">
 </p>
 
 ---
