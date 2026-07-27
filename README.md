@@ -33,7 +33,6 @@ Elenco utenti con numero ordini e spesa totale; promozione/retrocessione ruolo a
 </p>
 
 Acquisti di prodotti da fornitori esterni
-<img src="./docs/screenshots/market.png" alt="Mercato esterno fornitori" width="47%">
 <p align="center">
   <img src="./docs/screenshots/market.png" alt="Mercato esterno fornitori" width="70%">
 </p>
