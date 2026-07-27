@@ -23,7 +23,7 @@ Sezione prodotti acquistabili con possibilità di aggiunta al carrello o ai pref
 
 Gestione magazzino: ricerca, filtro categoria, **ordinamento per nome/prezzo/quantità**, modifica limitata (nome, descrizione, riduzione scorte, nuovo prezzo), eliminazione, evidenziazione automatica delle scorte sotto soglia, **export CSV**.
 <p align="center">
-  <img src="ecommerce/docs/screenshots/home-admin.png" alt="Dashboard magazzino amministratore" width="70%">
+  <img src="./docs/screenshots/home-admin.png" alt="Dashboard magazzino amministratore" width="70%">
 </p>
 
 Elenco utenti con numero ordini e spesa totale; promozione/retrocessione ruolo admin↔user, eliminazione account
@@ -32,6 +32,11 @@ Elenco utenti con numero ordini e spesa totale; promozione/retrocessione ruolo a
   <img src="./docs/screenshots/users.png" alt="Gestione utenti" width="47%">
 </p>
 
+Acquisti di prodotti da fornitori esterni
+<img src="./docs/screenshots/market.png" alt="Mercato esterno fornitori" width="47%">
+<p align="center">
+  <img src="./docs/screenshots/market.png" alt="Mercato esterno fornitori" width="70%">
+</p>
 ---
 
 ## ✅ Requisiti
